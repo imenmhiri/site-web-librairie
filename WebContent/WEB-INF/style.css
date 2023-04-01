@@ -1,0 +1,158 @@
+.margin {
+	margin-right: 57px;
+}
+
+.marginbottom {
+	margin-bottom: 30px;
+}
+
+.fix-height {
+	height: 80vh;
+}
+
+.fix-height2 {
+	height: 60vh;
+}
+
+.large {
+	font-size: medium;
+	margin-left: 24%;
+}
+
+.Large {
+	font-size: large;
+}
+
+.float {
+	margin-right: 30%;
+	float: right;
+}
+
+.offer {
+	margin-left: 30%;
+	font-size: medium;
+	background-color: #f0f0f5;
+	height: 30%;
+	width: 45%;
+	padding: 10px 0px 10px 10px;
+}
+
+.solid {
+	border-top: 6px solid DeepSkyBlue;
+}
+
+.solid1 {
+	border-top: 6px solid #00cc66;
+}
+
+.solid2 {
+	border-top: 6px solid #ac00e6;
+}
+
+.fix-height1 {
+	height: 10vh;
+}
+
+.paddingimg {
+	padding-top: 50px;
+}
+
+.paddingimg1 {
+	padding-top: 30px;
+}
+
+.text3 {
+	color: DeepSkyBlue;
+}
+
+.text2 {
+	color: #00cc66;
+}
+
+.text1 {
+	color: #ac00e6;
+}
+
+.dimImage {
+	height: 40 px;
+	width: 30 px;
+}
+
+div.gallery {
+	margin: 10px 0px 0px 200px;
+	border: 1px solid #ccc;
+	float: left;
+	width: 180px;
+}
+
+div.gallery:hover {
+	border: 1px solid #777;
+}
+
+div.gallery img {
+	width: 100%;
+	height: auto;
+}
+
+div.desc {
+	padding: 15px;
+	text-align: center;
+}
+
+.margintop {
+	margin-top: 20px;
+}
+
+img {
+	float: left;
+	width: 300px;
+	margin-right: 50px;
+}
+
+.descrip {
+	width: 600px;
+	float: left;
+}
+
+.descri {
+	margin: 150px 0px 0px 200px;
+}
+
+.Title {
+	color: #666699;
+	font-family: Florence, cursive;
+	font-size: large;
+}
+
+.panier {
+	margin: 0px 100px 900px 900px;
+}
+
+.float1 {
+	float: right;
+}
+
+.width {
+	width: 700px;
+}
+
+.container {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.margin-bottom{
+	margin-bottom:40px;
+}
+.colortext{
+	color:#fff;
+}
+.margintop{
+	margin-top:100px; 
+}
+.margin-left{
+	margin-left:100px; 
+}
+.container1{
+	margin: 400px 150px 400px 150px;
+}
